@@ -58,8 +58,8 @@ logo = """ -----------------------------•◈•
 \033[1;91m=======================================
 \033[1;96mAuthor  :PRINCE 00786
 \033[1;96mAuthor. Prince Farooq
-\033[1;96mFacebook  \033[1;93m: \033[1; Prince Farooq
-\033[1;96mGithub \033[1;93m: \033[1;92mht Prince Farooq
+\033[1;96mFacebook  \033[1;93m: prince Farooq
+\033[1;96mGithub \033[1;93m: \033[1;92mhthttps://github.com/Prince0078/Prince0078/blob
 \033[1;91m======================================="""
 
 def tik():
@@ -81,7 +81,7 @@ os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
 \033[1;96mFacebook  \033[1;93m: \033[1; 
-\033[1;96mAuthor  \033[1;93m: \033[1;
+\033[1;96mAuthor  \033[1;93m: \033[1; Prince farooq
 \033[1;96mInstagram \033[1;93m: \033[Prince farooq
 \033[1;96mFacebook  \033[1;93m: \033[1;92m prince Farooq
 \033[1;96mGithub \033[1;93m: \033[1;92mhhttps://github.com/Prince0078/Prince0078/edit/master/zeroboy.py
